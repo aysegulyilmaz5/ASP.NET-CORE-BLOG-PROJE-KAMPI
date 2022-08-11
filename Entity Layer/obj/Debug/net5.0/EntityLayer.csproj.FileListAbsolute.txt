@@ -1,0 +1,14 @@
+C:\Users\aysegul.yilmaz\source\repos\CoreDemo\Entity Layer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\aysegul.yilmaz\source\repos\CoreDemo\Entity Layer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\aysegul.yilmaz\source\repos\CoreDemo\Entity Layer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\aysegul.yilmaz\source\repos\CoreDemo\Entity Layer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\aysegul.yilmaz\source\repos\CoreDemo\Entity Layer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysegul.yilmaz\source\repos\CoreDemo\Entity Layer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\aysegul.yilmaz\source\repos\CoreDemo\Entity Layer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\aysegul.yilmaz\source\repos\CoreDemo\Entity Layer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\aysegul.yilmaz\source\repos\CoreDemo\Entity Layer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\aysegul.yilmaz\source\repos\CoreDemo\Entity Layer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\aysegul.yilmaz\source\repos\CoreDemo\Entity Layer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\aysegul.yilmaz\source\repos\CoreDemo\Entity Layer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+C:\Users\aysegul.yilmaz\source\repos\CoreDemo\Entity Layer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+C:\Users\aysegul.yilmaz\source\repos\CoreDemo\Entity Layer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache

@@ -1,0 +1,27 @@
+﻿@model Entity_Layer.Concrete.Message2
+
+@{
+    ViewData["Title"] = "MessageDetails";
+    Layout = "~/Views/Shared/WriterLayout.cshtml";
+}
+
+<h1>Mesaj Detay Düzenleme</h1>
+<h1>Blog Düzenleme Sayfası</h1>
+
+<br />
+@Html.Label("Mesaj ID")
+@Html.LabelFor(x => x.MessageID, new { @class = "form-control" })
+<br />
+@Html.Label("Mesaj Başlığı")
+@Html.TextBoxFor(x => x.Subject, new { @class = "form-control" })
+<br />
+@Html.Label("Mesaj İçeriği")
+@Html.TextAreaFor(x => x.MessageDetails,10,3, new { @class = "form-control" })
+<br />
+
+<button class="btn btn-success">Mesajlara Dön</button>
+
+
+
+
+
